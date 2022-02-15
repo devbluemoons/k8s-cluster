@@ -1,5 +1,11 @@
 # k8s
 
-## Node
+#### install (Mac-OS)
+```sh
+# minikube
+brew install minikube
+```
 
-## Pod
+#### Node
+
+#### Pod

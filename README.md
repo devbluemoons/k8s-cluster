@@ -1,11 +1,14 @@
 # k8s
 
-#### install (Mac-OS)
+#### install (macOS)
 ```sh
 # minikube
 brew install minikube
+
+# kubectl
+brew install kubectl
 ```
 
-#### Node
+#### node
 
-#### Pod
+#### pod

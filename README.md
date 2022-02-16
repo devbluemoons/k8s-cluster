@@ -2,7 +2,7 @@
 
 #### install (macOS)
 ```sh
-# minikube (k8s cluster)
+# minikube (k8s cluster) [!!!] single node
 brew install minikube
 
 # kubectl (k8s client)

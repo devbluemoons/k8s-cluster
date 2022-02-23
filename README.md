@@ -9,9 +9,9 @@ brew install minikube
 brew install kubectl
 ```
 
-#### node
-
-#### pod
+* [node](node)
+* [pod](pod)
+* [ReplicationController](ReplicationController)
 
 ###### Test Environment
 ```sh

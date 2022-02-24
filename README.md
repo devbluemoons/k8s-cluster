@@ -20,6 +20,7 @@ minikube stop
 minikube delete
 ```
 
+#### Concept
 * [node](node)
 * [pod](pod)
 * [ReplicationController](ReplicationController)

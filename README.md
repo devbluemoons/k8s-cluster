@@ -38,6 +38,15 @@ minikube delete
 * [roleBinding]()
 * [namespace]()
 
+#### Helm `(k8s package manager)`
+```sh
+# install (MacOs)
+brew install helm
+
+# check version
+helm version
+```
+
 ###### Test Environment
 ```sh
 # Virtual Box

@@ -8,6 +8,17 @@ brew install minikube
 # kubectl (k8s client)
 brew install kubectl
 ```
+#### `minikube` main commend
+```sh
+// start
+minikube start
+
+// stop
+minikube stop
+
+// delete
+minikube delete
+```
 
 * [node](node)
 * [pod](pod)

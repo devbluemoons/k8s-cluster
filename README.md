@@ -13,6 +13,19 @@ brew install kubectl
 * [pod](pod)
 * [ReplicationController](ReplicationController)
 
+#### Resources
+* [deployment]()
+* [statefulSet]()
+* [service]()
+* [configMap]()
+* [secret]()
+* [storageClass]()
+* [persistentVolumeClaim]()
+* [serviceAccount]()
+* [role]()
+* [roleBinding]()
+* [namespace]()
+
 ###### Test Environment
 ```sh
 # Virtual Box

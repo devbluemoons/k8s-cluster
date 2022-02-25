@@ -52,6 +52,9 @@ helm repo add [NAME] [URL]
 
 # install chart
 helm install [NAME] [CHART] [flags]
+
+# upgrade chart
+helm upgrade [NAME] [CHART] [flags]
 ```
 
 ###### Test Environment

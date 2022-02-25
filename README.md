@@ -46,6 +46,12 @@ brew install helm
 
 # check version
 helm version
+
+# add repository
+helm repo add [NAME] [URL]
+
+# install chart
+helm install [NAME] [CHART] [flags]
 ```
 
 ###### Test Environment

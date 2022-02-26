@@ -4,14 +4,13 @@
 
 * install
 ```zsh
-# [!] single node for local test
-# minikube (k8s cluster) 
+# [!] single node for local test 
 brew install minikube
 
-# hypervior (virtualbox)
+# hypervior
 brea install virtualbox --cask
 
-# kubectl (k8s client)
+# command tool
 brew install kubectl
 ```
 

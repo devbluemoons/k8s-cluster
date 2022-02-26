@@ -6,9 +6,20 @@
 # minikube (k8s cluster) 
 brew install minikube
 
+# hypervior (virtualbox)
+brea install virtualbox --cask
+
 # kubectl (k8s client)
 brew install kubectl
 ```
+#### set config `minikube`
+```sh
+minikube config set vm-driver virtualbox
+minikube config get vm-driver
+
+# when fail issue => https://stackoverflow.com/questions/52277019/how-to-fix-vm-issue-with-minikube-start
+```
+
 #### `minikube` main commend
 ```sh
 // start

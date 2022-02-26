@@ -1,7 +1,9 @@
 # k8s
 
-#### install (macOS)
-```sh
+## minikube
+
+* install
+```zsh
 # [!] single node for local test
 # minikube (k8s cluster) 
 brew install minikube
@@ -12,7 +14,8 @@ brea install virtualbox --cask
 # kubectl (k8s client)
 brew install kubectl
 ```
-#### set config `minikube`
+
+* set config
 ```sh
 minikube config set vm-driver virtualbox
 minikube config get vm-driver
@@ -20,7 +23,7 @@ minikube config get vm-driver
 # when fail issue => https://stackoverflow.com/questions/52277019/how-to-fix-vm-issue-with-minikube-start
 ```
 
-#### `minikube` main commend
+* main commend
 ```sh
 // start
 minikube start
@@ -32,12 +35,14 @@ minikube stop
 minikube delete
 ```
 
-#### Concept
+## kubeadm
+
+## Concept
 * [node](node)
 * [pod](pod)
 * [ReplicationController](ReplicationController)
 
-#### Resources
+## Resources
 * [deployment]()
 * [statefulSet]()
 * [service]()
@@ -50,7 +55,7 @@ minikube delete
 * [roleBinding]()
 * [namespace]()
 
-#### Helm `(k8s package manager)`
+## Helm `(k8s package manager)`
 ```sh
 # install (MacOs)
 brew install helm
@@ -68,7 +73,7 @@ helm install [RELEASE_NAME] [CHART] [flags]
 helm upgrade [RELEASE_NAME] [CHART] [flags]
 ```
 
-###### Test Environment
+## Test Environment
 ```sh
 # Virtual Box
 brew install --cask virtualbox

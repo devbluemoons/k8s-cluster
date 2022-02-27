@@ -65,6 +65,9 @@ helm version
 # add repository
 helm repo add [NAME] [URL]
 
+# update repostiroy
+helm repo update
+
 # get repository list
 hlem repo list
 

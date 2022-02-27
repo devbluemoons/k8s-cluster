@@ -65,11 +65,17 @@ helm version
 # add repository
 helm repo add [NAME] [URL]
 
+# search chart version
+helm search repo [CHART]
+
 # install chart
 helm install [RELEASE_NAME] [CHART] [flags]
 
 # upgrade chart
 helm upgrade [RELEASE_NAME] [CHART] [flags]
+
+# create chart
+helm create [CHART_NAME]
 ```
 
 ## Test Environment

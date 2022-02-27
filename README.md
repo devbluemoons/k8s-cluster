@@ -65,11 +65,17 @@ helm version
 # add repository
 helm repo add [NAME] [URL]
 
+# get repository list
+hlem repo list
+
 # search chart version
 helm search repo [CHART]
 
 # install chart
 helm install [RELEASE_NAME] [CHART] [flags]
+
+# get chart list
+helm list [flags]
 
 # upgrade chart
 helm upgrade [RELEASE_NAME] [CHART] [flags]

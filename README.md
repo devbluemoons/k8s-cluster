@@ -77,6 +77,9 @@ helm search repo [CHART]
 # install chart
 helm install [RELEASE_NAME] [CHART] [flags]
 
+# uninstall chart
+helm uninstall [RELEASE_NAME] [flags]
+
 # get chart list
 helm list [flags]
 
@@ -84,7 +87,9 @@ helm list [flags]
 helm upgrade [RELEASE_NAME] [CHART] [flags]
 
 # create chart
-helm create [CHART_NAME]
+helm create [CHART]
+
+helm dependency update [CHART] [flags]
 ```
 
 ## Local Test Environment

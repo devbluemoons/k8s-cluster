@@ -87,11 +87,20 @@ helm upgrade [RELEASE_NAME] [CHART] [flags]
 helm create [CHART_NAME]
 ```
 
-## Test Environment
+## Local Test Environment
+
+###### install
+
 ```sh
-# Virtual Box
+# minikube
+brew install minikube
+
+# kubectl
+brew install kubernetes-cli
+
+# virtualbox
 brew install --cask virtualbox
 
-# Vagrant
-brew install --cask vagrant
+# helm
+brew install helm
 ```

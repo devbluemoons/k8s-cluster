@@ -92,10 +92,16 @@ helm create [CHART]
 helm dependency update [CHART] [flags]
 ```
 
+## kubectl
+```sh
+kubectl get [flags]
+
+kubectl delete [flags]
+```
+
 ## Local Test Environment
 
 ###### install
-
 ```sh
 # minikube
 brew install minikube

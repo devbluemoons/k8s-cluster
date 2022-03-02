@@ -90,6 +90,7 @@ helm upgrade [RELEASE_NAME] [CHART] [flags]
 helm create [CHART]
 
 helm dependency update [CHART] [flags]
+
 ```
 
 ## kubectl
@@ -114,4 +115,10 @@ brew install --cask virtualbox
 
 # helm
 brew install helm
+
+brew install yamllint
+
+brew install yamale
+
+brew install chart-testing
 ```

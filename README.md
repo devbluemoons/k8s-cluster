@@ -40,6 +40,8 @@ minikube delete
 * [node](node)
 * [pod](pod)
 * [ReplicationController](ReplicationController)
+* [ReplicaSet](ReplicaSet)
+* [DaemonSet](DaemonSet)
 
 ## Resources
 * [deployment]()

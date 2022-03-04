@@ -8,7 +8,7 @@
 brew install minikube
 
 # hypervior
-brea install virtualbox --cask
+brew install virtualbox --cask
 
 # command tool
 brew install kubectl
@@ -39,9 +39,12 @@ minikube delete
 ## Concept
 * [node](node)
 * [pod](pod)
-* [ReplicationController](ReplicationController)
-* [ReplicaSet](ReplicaSet)
-* [DaemonSet](DaemonSet)
+* [replicationController](replicationController)
+* [replicaSet](replicaSet)
+* [daemonSet](daemonSet)
+* [job](job)
+* [cronJob](cronJob)
+* [service](service)
 
 ## Resources
 * [deployment]()

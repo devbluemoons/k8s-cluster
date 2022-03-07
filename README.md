@@ -18,9 +18,8 @@ brew install kubectl
 ```sh
 minikube config set vm-driver virtualbox
 minikube config get vm-driver
-
-# when fail issue => https://stackoverflow.com/questions/52277019/how-to-fix-vm-issue-with-minikube-start
 ```
+[Guide : fail case on MacOS](https://stackoverflow.com/questions/52277019/how-to-fix-vm-issue-with-minikube-start)
 
 * main commend
 ```sh

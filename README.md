@@ -34,6 +34,13 @@ minikube delete
 ```
 
 ## kubeadm
+```sh
+# reset
+kubeadm reset
+
+# initialize
+kubeadm init [flags]
+```
 
 ## Concept
 * [node](node)

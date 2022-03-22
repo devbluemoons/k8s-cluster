@@ -42,7 +42,8 @@ kubeadm reset
 kubeadm init [flags]
 ```
 
-[[!] related docker](https://boying-blog.tistory.com/3)  
+[[!] related docker (case1)](https://boying-blog.tistory.com/3)  
+[[!] related docker (case2)](https://almost-native.tistory.com/415)  
 [[!] swapoff](https://stackoverflow.com/questions/47094861/error-while-executing-and-initializing-kubeadm)
 
 ## Concept

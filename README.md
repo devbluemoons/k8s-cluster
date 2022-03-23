@@ -47,7 +47,7 @@ kubeadm init [flags]
 [[!] swapoff](https://stackoverflow.com/questions/47094861/error-while-executing-and-initializing-kubeadm)
 
 ## Concept
-* [node](node)
+* [node (host/server)](node)
 * [pod](pod)
 * [replicationController](replicationController)
 * [replicaSet](replicaSet)

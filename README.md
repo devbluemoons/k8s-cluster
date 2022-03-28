@@ -52,6 +52,8 @@ kubeadm init [flags]
 * [kube-proxy](kube-proxy)
 * [pod](pod)
 * [replicationController](replicationController)
+* [label](label)
+* [namespace](namespace)
 * [replicaSet](replicaSet)
 * [daemonSet](daemonSet)
 * [job](job)

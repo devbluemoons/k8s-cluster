@@ -48,6 +48,8 @@ kubeadm init [flags]
 
 ## Concept
 * [node (host/server)](node)
+* [kubelet](kubelet)
+* [kube-proxy](kube-proxy)
 * [pod](pod)
 * [replicationController](replicationController)
 * [replicaSet](replicaSet)

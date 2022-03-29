@@ -59,6 +59,7 @@ kubeadm init [flags]
 * [job](job)
 * [cronJob](cronJob)
 * [service](service)
+* [ingress](ingress)
 
 ## Resources
 * [deployment]()

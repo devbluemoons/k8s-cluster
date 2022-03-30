@@ -61,6 +61,8 @@ kubeadm init [flags]
 * [service](service)
 * [ingress](ingress)
 * [volume](volume)
+* [pv](pv)
+* [pvc](pvc)
 
 ## Resources
 * [deployment]()

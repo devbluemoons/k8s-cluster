@@ -59,6 +59,8 @@ kubeadm init [flags]
 * [job](job)
 * [cronJob](cronJob)
 * [service](service)
+* [nodePort](nodePort)
+* [loadBalancer](loadBalancer)
 * [ingress](ingress)
 * [volume](volume)
 * [pv](pv)

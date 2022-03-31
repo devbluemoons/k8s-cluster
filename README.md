@@ -65,6 +65,9 @@ kubeadm init [flags]
 * [volume](volume)
 * [pv](pv)
 * [pvc](pvc)
+* [storageClass](storageClass)
+* [configMap](configMap)
+* [secret](secret)
 
 ## Resources
 * [deployment]()

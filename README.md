@@ -68,6 +68,7 @@ kubeadm init [flags]
 * [storageClass](storageClass)
 * [configMap](configMap)
 * [secret](secret)
+* [downwardAPI](downwardAPI)
 
 ## Resources
 * [deployment]()

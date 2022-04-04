@@ -69,19 +69,7 @@ kubeadm init [flags]
 * [configMap](configMap)
 * [secret](secret)
 * [downwardAPI](downwardAPI)
-
-## Resources
-* [deployment]()
-* [statefulSet]()
-* [service]()
-* [configMap]()
-* [secret]()
-* [storageClass]()
-* [persistentVolumeClaim]()
-* [serviceAccount]()
-* [role]()
-* [roleBinding]()
-* [namespace]()
+* [statefulSet](statefulSet)
 
 ## Helm `(k8s package manager)`
 ```sh

@@ -71,6 +71,14 @@ kubeadm init [flags]
 * [downwardAPI](downwardAPI)
 * [statefulSet](statefulSet)
 
+## Structure
+* master node (control plane)
+  - etcd
+  - api server
+  - controller manager
+  - scheduler
+* worker node
+
 ## Helm `(k8s package manager)`
 ```sh
 # install (MacOs)

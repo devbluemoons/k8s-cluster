@@ -63,12 +63,9 @@ kubeadm init [flags]
   - NodePort
   - LoadBalancer
   - Ingress
-* [nodePort](nodePort)
-* [loadBalancer](loadBalancer)
-* [ingress](ingress)
 * [volume](volume)
-* [pv](pv)
-* [pvc](pvc)
+  - pv
+  - pvc
 * [storageClass](storageClass)
 * [configMap](configMap)
 * [secret](secret)

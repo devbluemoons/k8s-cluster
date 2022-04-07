@@ -66,7 +66,7 @@ kubeadm init [flags]
 * [volume](volume)
   - pv
   - pvc
-* [storageClass](storageClass)
+  - storageClass
 * [configMap](configMap)
 * [secret](secret)
 * [downwardAPI](downwardAPI)

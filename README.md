@@ -45,6 +45,7 @@ kubeadm init [flags]
 [[!] related docker (case1)](https://boying-blog.tistory.com/3)  
 [[!] related docker (case2)](https://almost-native.tistory.com/415)  
 [[!] swapoff](https://stackoverflow.com/questions/47094861/error-while-executing-and-initializing-kubeadm)
+[[!] connection error](https://jmholly.tistory.com/entry/%EC%97%90%EB%9F%AC%ED%95%B4%EA%B2%B0-Unable-to-connect-to-the-server-x509-certificate-signed-by-unknown-authority-possibly-because-of-cryptorsa-verification-error-while-trying-to-verify-candidate-authority-certificate-kubernetes)  
 
 ## Concept
 * [node (host/server)](node)

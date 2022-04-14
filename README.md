@@ -47,6 +47,11 @@ kubeadm init [flags]
 [[!] swapoff](https://stackoverflow.com/questions/47094861/error-while-executing-and-initializing-kubeadm)  
 [[!] connection error](https://jmholly.tistory.com/entry/%EC%97%90%EB%9F%AC%ED%95%B4%EA%B2%B0-Unable-to-connect-to-the-server-x509-certificate-signed-by-unknown-authority-possibly-because-of-cryptorsa-verification-error-while-trying-to-verify-candidate-authority-certificate-kubernetes)  
 
+###### version issue
+```sh
+apt update && apt upgrade
+```
+
 ## Concept
 * [node (host/server)](node)
 * [kubelet](kubelet)

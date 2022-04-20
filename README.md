@@ -120,6 +120,9 @@ helm search repo [CHART]
 # install chart
 helm install [RELEASE_NAME] [CHART] [flags]
 
+# install chart directory `An unpacked chart directory`
+helm install [CHART_DIREACTORY] [flags]
+
 # uninstall chart
 helm uninstall [RELEASE_NAME] [flags]
 

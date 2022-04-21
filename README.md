@@ -135,7 +135,7 @@ helm upgrade [RELEASE_NAME] [CHART] [flags]
 # create chart
 helm create [CHART]
 
-helm dependency update [CHART] [flags]
+helm dependency update [CHART_DIREACTORY]
 
 ```
 

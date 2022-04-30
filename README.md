@@ -60,6 +60,7 @@ apt update && apt upgrade
 * [kube-proxy](kube-proxy)
 * [pod](pod)
 * [label](label)
+* [annotation](annotation)
 * [namespace](namespace)
 * [livenessProbe](livenessProbe)
 * [replicaSet](replicaSet)

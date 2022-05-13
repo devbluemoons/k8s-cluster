@@ -80,6 +80,7 @@ apt update && apt upgrade
 * [configMap](configMap)
 * [secret](secret)
 * [downwardAPI](downwardAPI)
+* [deployment](deployment)
 * [statefulSet](statefulSet)
 
 ## Structure

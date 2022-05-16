@@ -85,6 +85,10 @@ apt update && apt upgrade
 * [statefulSet](statefulSet)
 * [serviceAccount](serviceAccount)
 * [RBAC](RBAC)
+  - role
+  - role-binding
+  - cluster-role
+  - cluster-role- binding
 
 ## Structure
 * master node (control plane)

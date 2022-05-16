@@ -56,6 +56,7 @@ apt update && apt upgrade
 
 ## Concept
 * [node (host/server)](node)
+* [api-server](api-server)
 * [kubelet](kubelet)
 * [kube-proxy](kube-proxy)
 * [pod](pod)

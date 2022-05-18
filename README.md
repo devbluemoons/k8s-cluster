@@ -96,6 +96,10 @@ apt update && apt upgrade
   - limits
     - cpu
     - memory
+  - pod-Qos-class
+    - BestEffort
+    - Burstable
+    - Guaranteed
 
 ## Structure
 * master node (control plane)

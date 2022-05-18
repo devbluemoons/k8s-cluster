@@ -100,6 +100,8 @@ apt update && apt upgrade
     - BestEffort
     - Burstable
     - Guaranteed
+  - LimitRange
+  - ResourceQuota
 
 ## Structure
 * master node (control plane)

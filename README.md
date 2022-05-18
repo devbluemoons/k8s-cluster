@@ -89,6 +89,13 @@ apt update && apt upgrade
   - role-binding
   - cluster-role
   - cluster-role- binding
+* [resources](resources)
+  - request
+    - cpu
+    - memory
+  - limits
+    - cpu
+    - memory
 
 ## Structure
 * master node (control plane)

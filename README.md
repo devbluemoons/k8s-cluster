@@ -102,6 +102,8 @@ apt update && apt upgrade
     - Guaranteed
   - LimitRange
   - ResourceQuota
+  - AutoScaling
+    - metric
 
 ## Structure
 * master node (control plane)

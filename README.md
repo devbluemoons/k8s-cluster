@@ -102,8 +102,11 @@ apt update && apt upgrade
     - Guaranteed
   - LimitRange
   - ResourceQuota
-  - AutoScaling
-    - metric
+* [autoScaling](autoScaling)
+  - metric
+* [scheduling](scheduling)
+  - taint
+  - toleration
 
 ## Structure
 * master node (control plane)

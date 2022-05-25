@@ -165,6 +165,9 @@ helm create [CHART]
 
 helm dependency update [CHART_DIREACTORY]
 
+# get chart config info
+helm get notes [CHART-NAME] [NAMESPACE]
+
 ```
 
 ## kubectl

@@ -1,39 +1,10 @@
-# k8s `(kubernetes cluster)`
+# <img src="https://landscape.cncf.io/logos/kubernetes.svg" width="200" />
+automating deployment, scaling, and management of containerized applications  
 
-## minikube
 
-* install
-```zsh
-# [!] single node for local test 
-brew install minikube
+## <img src="https://d33wubrfki0l68.cloudfront.net/e4a8ddb49f07de8b2c2dbbfc7c9bedcfe0816701/600b1/images/kubeadm-stacked-color.png" width="150" />
+build tool for kubernets cluster
 
-# hypervior
-brew install virtualbox --cask
-
-# command tool
-brew install kubectl
-```
-
-* set config
-```sh
-minikube config set vm-driver virtualbox
-minikube config get vm-driver
-```
-[Guide : fail case on MacOS](https://stackoverflow.com/questions/52277019/how-to-fix-vm-issue-with-minikube-start)
-
-* main commend
-```sh
-// start
-minikube start
-
-// stop
-minikube stop
-
-// delete
-minikube delete
-```
-
-## kubeadm
 ```sh
 # reset
 kubeadm reset

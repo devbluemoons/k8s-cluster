@@ -3,7 +3,12 @@ automating deployment, scaling, and management of containerized applications
 
 
 ## <img src="https://d33wubrfki0l68.cloudfront.net/e4a8ddb49f07de8b2c2dbbfc7c9bedcfe0816701/600b1/images/kubeadm-stacked-color.png" width="150" />
-build tool for kubernetes cluster
+build tool for kubernetes cluster  
+
+## install `(ubuntu/debian)`
+```sh
+# to be continue...
+```
 
 ```sh
 # reset
@@ -149,27 +154,4 @@ helm get notes [CHART-NAME] [NAMESPACE]
 kubectl get [flags]
 
 kubectl delete [flags]
-```
-
-## Local Test Environment
-
-###### install
-```sh
-# minikube
-brew install minikube
-
-# kubectl
-brew install kubernetes-cli
-
-# virtualbox
-brew install --cask virtualbox
-
-# helm
-brew install helm
-
-brew install yamllint
-
-brew install yamale
-
-brew install chart-testing
 ```

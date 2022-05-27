@@ -42,12 +42,12 @@ kubeadm reset
 kubeadm init [flags]
 ```
 
-[[!] related docker (case1)](https://boying-blog.tistory.com/3)  
-[[!] related docker (case2)](https://almost-native.tistory.com/415)  
-[[!] swapoff](https://stackoverflow.com/questions/47094861/error-while-executing-and-initializing-kubeadm)  
-[[!] connection error](https://jmholly.tistory.com/entry/%EC%97%90%EB%9F%AC%ED%95%B4%EA%B2%B0-Unable-to-connect-to-the-server-x509-certificate-signed-by-unknown-authority-possibly-because-of-cryptorsa-verification-error-while-trying-to-verify-candidate-authority-certificate-kubernetes)  
-[[!] core-dns issue](https://stackoverflow.com/questions/52609257/coredns-in-pending-state-in-kubernetes-cluster)  
-[[!] after reboot](https://stackoverflow.com/questions/55555987/my-kubernetes-cluster-is-down-after-reboot)
+- [x] [related docker (case1)](https://boying-blog.tistory.com/3):heavy_exclamation_mark:  
+- [x] [related docker (case2)](https://almost-native.tistory.com/415):heavy_exclamation_mark:  
+- [x] [swapoff](https://stackoverflow.com/questions/47094861/error-while-executing-and-initializing-kubeadm):heavy_exclamation_mark:  
+- [x] [connection error](https://jmholly.tistory.com/entry/%EC%97%90%EB%9F%AC%ED%95%B4%EA%B2%B0-Unable-to-connect-to-the-server-x509-certificate-signed-by-unknown-authority-possibly-because-of-cryptorsa-verification-error-while-trying-to-verify-candidate-authority-certificate-kubernetes):heavy_exclamation_mark:  
+- [x] [core-dns issue](https://stackoverflow.com/questions/52609257/coredns-in-pending-state-in-kubernetes-cluster):heavy_exclamation_mark:  
+- [x] [after reboot](https://stackoverflow.com/questions/55555987/my-kubernetes-cluster-is-down-after-reboot):heavy_exclamation_mark:
 
 ###### version issue
 ```sh

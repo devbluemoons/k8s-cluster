@@ -115,6 +115,9 @@ apt update && apt upgrade
   - controller manager
   - scheduler
 * worker node
+  - kube-proxy
+  - kubelet
+  - controller-runtime
 
 ## Helm `(k8s package manager)`
 ```sh

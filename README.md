@@ -96,8 +96,6 @@ apt update && apt upgrade
   - controller-runtime
 
 ## kubectl
-```sh
-kubectl get [flags]
-
-kubectl delete [flags]
+```ShellSession
+# to be continue...
 ```
